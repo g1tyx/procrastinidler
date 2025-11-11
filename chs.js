@@ -145,8 +145,6 @@ var cnItems = {
     "Chunder at the obedience": "对服从表示不满",
     "Click the Boss button and hire a boss to help you out.": "点击老板按钮，雇佣一个老板来帮助你。",
     "Dally  release": "延迟释放",
-    "Deliquesce above yin": "阴部以上潮解",
-    "Dicker of the festival": "音乐节的迪克",
     "Dilate  secret": "扩张秘密",
     "Disgorge regarding printer": "关于打印机的吐槽",
     "Health": "健康",
